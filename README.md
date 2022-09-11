@@ -6,11 +6,6 @@ Copperplate has a way to output things but it has no way to input them! It only 
 You can have several commands per line, at least in the Python implementation.
 Anything that is not a command is not accepted by the interpreter. As you've probably assumed Copperplate was created in less than 15 Minutes, and cant be very useful.
 
-Commands:                   Deadfish equivalent:
-+                           i
--                           d
-o                           o
-
 
 Getting started:
   Install all the Python files.
